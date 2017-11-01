@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: #0dc1c4;
+}
+
+#formularz {
+    background-color: #a3f5f7;
+    padding: 20px;
+    position: relative;
+    left: 50%;
+    margin-top: 50px;
+    transform: translateX(-50%);
+    width: 400px;
+    font-family: 'Verdana';
+    font-weight: bold;
+    border: 3px solid #000;
+    border-radius: 25px;
+}
+
+#wyslij {
+	font-family: 'Verdana';
+    font-size: 1em;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.pole, #txtarea1 {
+	font-size: 1em;
+    font-family: 'Verdana';
+}
